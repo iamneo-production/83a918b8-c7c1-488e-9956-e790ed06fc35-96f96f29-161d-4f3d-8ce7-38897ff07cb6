@@ -562,8 +562,8 @@ D:/Dotnet Project Gladiator/Zipfile/dotnetgladiator/dotnetapp/dotnetapp/obj/Debu
 D:/Dotnet Project Gladiator/Zipfile/dotnetgladiator/dotnetapp/dotnetapp/obj/Debug/net6.0/dotnetapp.pdb
 D:/Dotnet Project Gladiator/Zipfile/dotnetgladiator/dotnetapp/dotnetapp/obj/Debug/net6.0/dotnetapp.genruntimeconfig.cache
 D:/Dotnet Project Gladiator/Zipfile/dotnetgladiator/dotnetapp/dotnetapp/obj/Debug/net6.0/ref/dotnetapp.dll
-/home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/appsettings.json
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/appsettings.Development.json
+/home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/appsettings.json
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/dotnetapp
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/dotnetapp.deps.json
 /home/coder/project/workspace/dotnetapp/bin/Debug/net6.0/dotnetapp.runtimeconfig.json
